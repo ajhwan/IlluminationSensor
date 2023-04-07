@@ -1,4 +1,4 @@
-const int sensorMin = 0;    
+const int sensorMin = 0;
 const int sensorMax = 600; 
 const int LED = 9;
 
