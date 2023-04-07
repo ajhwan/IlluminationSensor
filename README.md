@@ -1,6 +1,8 @@
 # IlluminationSensor
 IlluminationSensor_Apply
 
+![tinkercad](Button_with_Sensors.png)
+
 + **IlluminationSensor_LED**
   + 조도센서를 아날로그 핀 A1에 연결, LED 핀은 9번핀에 연결한다. 
   + 조도센서의 값이 200보다 크면 LED가 켜지고 그 외에는 LED가 꺼진다.
